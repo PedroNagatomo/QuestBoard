@@ -2,8 +2,7 @@
 
 Gamificação para equipes de trabalho. Transforme tarefas em **quests** com XP, níveis, badges, guildas, boss fights e recompensas reais.
 
-[![CI](https://github.com/<SEU-USER>/questboard/actions/workflows/ci.yml/badge.svg)](https://github.com/<SEU-USER>/questboard/actions/workflows/ci.yml)
-[![Release](https://github.com/<SEU-USER>/questboard/actions/workflows/release.yml/badge.svg)](https://github.com/<SEU-USER>/questboard/actions/workflows/release.yml)
+<img width="1915" height="906" alt="image" src="https://github.com/user-attachments/assets/e69408c9-1628-4bb7-b539-80b68d4b41a1" />
 
 ## ✨ Funcionalidades
 
