@@ -1,0 +1,23 @@
+spring:
+  jpa:
+    show-sql: false
+  flyway:
+    clean-disabled: true
+  task:
+    execution:
+      pool:
+        core-size: 4
+        max-size: 8
+        queue-capacity: 100
+      thread-name-prefix: questboard-async-
+
+app:
+  cors:
+    allowed-origins: ${APP_CORS_ALLOWED_ORIGINS:http://localhost:8081}
+
+logging:
+  level:
+    com.questboard: INFO
+    org.springframework.security: WARN
+    org.hibernate: WARN
+    org.flywaydb: INFO

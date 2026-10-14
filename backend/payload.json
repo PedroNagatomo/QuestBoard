@@ -1,0 +1,9 @@
+{
+  "source": "GITHUB",
+  "type": "ISSUE_CREATED",
+  "externalId": "gh-42",
+  "title": "Corrigir bug crítico de login",
+  "description": "Usuários não conseguem entrar após reset",
+  "difficultyHint": "critical",
+  "url": "https://github.com/org/repo/issues/42"
+}
